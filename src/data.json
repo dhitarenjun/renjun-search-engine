@@ -15,18 +15,108 @@
     "id": 3,
     "judul": "Gaya Fashion Renjun dalam Pemotretan Majalah Terbaru",
     "kategori": "Fashion",
-    "konten": "Ulasan mendalam mengenai visual, konsep pakaian, dan estetika yang ditampilkan Renjun NCT dalam proyek pemotretan majalah fashion ternama."
+    "konten": "Kupas tuntas mengenai gaya berpakaian dan aksesori yang digunakan Renjun NCT dalam sesi pemotretan majalah fashion ternama."
   },
   {
     "id": 4,
-    "judul": "Koleksi Vokal Terbaik Renjun dalam Album Terbaru NCT Dream",
+    "judul": "Teknik Vokal Renjun dalam Lagu Ballad NCT Dream",
     "kategori": "Musik",
-    "konten" : "Analisis teknik vokal, nada tinggi (high note), dan warna suara emosional Renjun pada lagu-lagu utama di album terbaru."
+    "konten": "Analisis perkembangan teknik vokal Renjun yang semakin stabil, terutama saat menyanyikan lagu-lagu bergenre ballad bersama NCT Dream."
   },
   {
     "id": 5,
-    "judul": "Metode Naive Bayes untuk Klasifikasi Tweet Dukungan Fans Renjun",
+    "judul": "Peran Renjun dalam Produksi Lagu-Lagu NCT",
+    "kategori": "Musik",
+    "konten": "Menjelajahi kontribusi Renjun di balik layar dalam proses rekaman dan aransemen vokal untuk album-album terbaru NCT."
+  },
+  {
+    "id": 6,
+    "judul": "Destinasi Wisata Favorit Renjun di Korea",
+    "kategori": "Gaya Hidup",
+    "konten": "Daftar lokasi wisata tersembunyi yang sering dikunjungi Renjun saat memiliki waktu luang di sela-sela jadwal sibuknya."
+  },
+  {
+    "id": 7,
+    "judul": "Transformasi Gaya Rambut Renjun dari Era Debut",
+    "kategori": "Fashion",
+    "konten": "Evolusi gaya dan warna rambut Renjun sejak debut di tahun 2016 hingga era comeback NCT Dream saat ini."
+  },
+  {
+    "id": 8,
+    "judul": "Implementasi Algoritma Naive Bayes untuk Klasifikasi Komentar Renjun",
     "kategori": "Riset Akademik",
-    "konten": "Penerapan algoritma Naive Bayes dan NLP (Natural Language Processing) untuk menyaring ujaran kebencian dan mengutamakan pesan positif untuk Renjun di platform X."
+    "konten": "Penerapan metode Naive Bayes Classifier dalam mengelompokkan sentimen positif, negatif, dan netral dari opini publik mengenai aktivitas Renjun."
+  },
+  {
+    "id": 9,
+    "judul": "Persiapan Konser Dunia NCT Dream: Fokus Latihan Renjun",
+    "kategori": "Berita Populer",
+    "konten": "Liputan eksklusif mengenai persiapan fisik dan vokal Renjun menjelang tur konser dunia bersama member NCT Dream lainnya."
+  },
+  {
+    "id": 10,
+    "judul": "Hobi Menggambar Renjun sebagai Bentuk Terapi Seni",
+    "kategori": "Gaya Hidup",
+    "konten": "Ulasan mengenai ketertarikan Renjun pada dunia seni lukis dan bagaimana ia memanfaatkan hobi tersebut untuk mengisi waktu luang."
+  },
+  {
+    "id": 11,
+    "judul": "Pengaruh Karisma Renjun di Panggung terhadap Popularitas Grup",
+    "kategori": "Riset Akademik",
+    "konten": "Studi analisis media mengenai dampak *stage presence* Renjun dalam menarik atensi penggemar global baru."
+  },
+  {
+    "id": 12,
+    "judul": "Rekomendasi Skincare Routine ala Renjun untuk Kulit Glowing",
+    "kategori": "Gaya Hidup",
+    "konten": "Tips merawat kesehatan kulit wajah sensitif menggunakan produk hidrasi yang sering direkomendasikan oleh Renjun."
+  },
+  {
+    "id": 13,
+    "judul": "Analisis Harmonisasi Vokal Renjun dan Haechan",
+    "kategori": "Musik",
+    "konten": "Bedah teknis mengenai perpaduan warna suara (*vocal timbre*) antara Renjun dan Haechan yang menjadi pilar utama lagu-lagu NCT Dream."
+  },
+  {
+    "id": 14,
+    "judul": "Dampak Positif Kembalinya Renjun terhadap Saham Agensi",
+    "kategori": "Berita Populer",
+    "konten": "Analisis ekonomi pasar mengenai pergerakan grafik saham SM Entertainment setelah pengumuman Renjun selesai dari masa hiatus."
+  },
+  {
+    "id": 15,
+    "judul": "Evolusi Konsep Kostum Panggung Renjun",
+    "kategori": "Fashion",
+    "konten": "Sorotan mendalam mengenai perubahan estetika kostum panggung Renjun dari konsep imut hingga bertransisi ke konsep yang lebih dewasa."
+  },
+  {
+    "id": 16,
+    "judul": "Penerapan Metode SVM dalam Pengelompokan Teks Artikel Renjun",
+    "kategori": "Riset Akademik",
+    "konten": "Riset mengenai akurasi algoritma Support Vector Machine (SVM) untuk mengategorikan topik berita seputar idola K-Pop secara otomatis."
+  },
+  {
+    "id": 17,
+    "judul": "Pesan Menyentuh Renjun untuk Fans di Bubble",
+    "kategori": "Berita Populer",
+    "konten": "Kumpulan interaksi hangat dan pesan penyemangat yang dikirimkan Renjun kepada para penggemar melalui aplikasi komunikasi artis."
+  },
+  {
+    "id": 18,
+    "judul": "Koleksi Brand Mewah yang Pernah Dipakai Renjun",
+    "kategori": "Fashion",
+    "konten": "Daftar merek fashion kelas dunia yang pernah mempercayakan produk mereka untuk dikenakan oleh Renjun dalam berbagai acara formal."
+  },
+  {
+    "id": 19,
+    "judul": " Playlist Lagu Favorit Pilihan Renjun untuk Menemani Santai",
+    "kategori": "Musik",
+    "konten": "Deretan rekomendasi lagu bergenre indie dan akustik pilihan Renjun yang sering ia putar saat sedang beristirahat."
+  },
+  {
+    "id": 20,
+    "judul": "Persahabatan Lintas Grup: Interaksi Renjun dan Idol Lain",
+    "kategori": "Gaya Hidup",
+    "konten": "Momen kebersamaan dan kedekatan Renjun dengan rekan sesama line 2000 dari berbagai grup idola K-Pop populer."
   }
 ]
