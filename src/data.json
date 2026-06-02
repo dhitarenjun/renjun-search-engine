@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "judul": "Analisis Sentimen Komentar YouTube pada Debut Solo Huang Renjun",
+    "kategori": "Riset Akademik",
+    "konten": "Penelitian riset informatika yang menganalisis reaksi positif dan dukungan fans di kolom komentar YouTube terkait proyek lagu dan debut solo Huang Renjun."
+  },
+  {
+    "id": 2,
+    "judul": "Renjun NCT Dream Resmi Kembali Aktif Pasca Hiatus",
+    "kategori": "Berita Populer",
+    "konten": "Pengumuman resmi dari SM Entertainment mengenai kembalinya Renjun dalam aktivitas grup NCT Dream setelah menjalani masa istirahat pemulihan kesehatan."
+  },
+  {
+    "id": 3,
+    "judul": "Gaya Fashion Renjun dalam Pemotretan Majalah Terbaru",
+    "kategori": "Fashion",
+    "konten": "Ulasan mendalam mengenai visual, konsep pakaian, dan estetika yang ditampilkan Renjun NCT dalam proyek pemotretan majalah fashion ternama."
+  },
+  {
+    "id": 4,
+    "judul": "Koleksi Vokal Terbaik Renjun dalam Album Terbaru NCT Dream",
+    "kategori": "Musik",
+    "konten" : "Analisis teknik vokal, nada tinggi (high note), dan warna suara emosional Renjun pada lagu-lagu utama di album terbaru."
+  },
+  {
+    "id": 5,
+    "judul": "Metode Naive Bayes untuk Klasifikasi Tweet Dukungan Fans Renjun",
+    "kategori": "Riset Akademik",
+    "konten": "Penerapan algoritma Naive Bayes dan NLP (Natural Language Processing) untuk menyaring ujaran kebencian dan mengutamakan pesan positif untuk Renjun di platform X."
+  }
+]
